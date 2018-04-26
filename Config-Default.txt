@@ -1,0 +1,11 @@
+ARRIBA=Arriba
+ABAJO=Abajo
+IZQUIERDA=Izquierda
+DERECHA=Derecha
+TIRO=Q
+PAUSA=P
+Pantalla=En Ventana
+Sonido=true
+Pista=Pista Original
+TANQUE=azul
+jugador=player

@@ -1,0 +1,6 @@
+NivelUNO
+NivelDOS
+NivelTRES
+Prueba1
+10
+nivelPrueba

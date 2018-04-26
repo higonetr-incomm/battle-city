@@ -1,0 +1,22 @@
+#By: Jugador
+#Wed Apr 25 17:57:34 ART 2018
+10=3500
+j=Beto
+i=Raimsten
+9=3600
+h=Messi
+8=3800
+g=Prueba1
+7=4100
+f=Ramon
+6=4500
+e=rodri
+5=4600
+d=Nombre JugadorJ
+4=4900
+c=Nombre Jugadorfff
+3=8300
+b=Mariela
+a=Ramon
+2=8700
+1=9300
